@@ -2,8 +2,6 @@
 ## Introduction
 This is an exploration of the 'Wolrd' dataset through SQL. We'll be looking at some demographic and teritory details by city/country and try to answer some questions.
 
-SQL operations used: ORDER BY, WHERE, BETWEEN, LIMIT, COUNT, AVG, GROUP BY, JOIN.
-
 Practical implications of this exercise:
 - Developing a habit of clean and effective SQL query writing
 - Cross referencing variables by joining tables in oder to achieve a wider picture
