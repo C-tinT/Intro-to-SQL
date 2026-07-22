@@ -6,5 +6,5 @@ This is an attempt to explore the 'Wolrd' dataset through SQL. We'll be looking 
 1. Exploring cities and demographics.
 Top 10 cities by population size:
 
-`select name, population from city order by Population desc limit 10;`
+```{select name, population from city order by Population desc limit 10;}```
 
