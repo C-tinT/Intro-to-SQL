@@ -116,4 +116,4 @@ order by LifeExpectancy desc limit 10;
 <img width="607" height="334" alt="image" src="https://github.com/user-attachments/assets/5d210a1f-2a21-4182-92b9-d275709acac4" />
 
 
-**Conclusion:** as it transpires from the second table, there is no significant correlation between the two variables. High life expectancy is not determined by a nation's wealth. Japan is just an exception that might point towards the determining factor be it social structure, government policies, climate or geography. Most likely a mix of all these.
+**Conclusion:** as it transpires from the second table, there is no significant correlation between the two variables. High life expectancy is not determined by a nation's wealth. Japan is just an exception that might point towards the determining factor, be it social structure, government policies, climate or geography. Most likely it is a mix of all these.
